@@ -1,4 +1,4 @@
-# Belal Skaik's Portfolio
+# Belal's Portfolio
 This is the source code for Belal Skaik's portfolio website. The website showcases skills in backend development, big data, and AI. Below is a list of technologies used in the project.
 ## Technologies Used
 
